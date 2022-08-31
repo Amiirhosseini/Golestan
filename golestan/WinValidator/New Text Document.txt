@@ -1,0 +1,4 @@
+       if (BaseValidator.IsFormValid(this.components))
+            {
+                DialogResult=DialogResult.OK;
+            }
